@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndrewBotticelli
 - 👀 I’m interested in hardware/software troubleshooting
-- 🌱 I’m currently learning CPSA
+- 🌱 Completed CompTIA security+ and I’m currently studying towards CPSA
 - 📫 How to reach me: Andrewbotticelli05@gmail.com
   
 
